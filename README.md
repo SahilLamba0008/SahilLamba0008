@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Lamba</h1>
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
 
-- 🌱 I’m currently learning **UI/UX and Version Control from Coursera**
+<img align="right" alt="coding_desk" width="400px" src="/coding.gif"/>
+
+- 🌱 Presently, I am delving into the realm of **Web Development**, nurturing my passion and curiosity for this field.
 
 - 📫 How to reach me **08sahillamba@gmail.com**
 
