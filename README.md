@@ -2,7 +2,7 @@
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
 
 <p align="center">
-  <img src="/Untitled-1.png" alt="coding_desk" width="450px" style="border-radius: 30px 50px 40px 150px; box-shadow: 20px -10px rgba(0, 0, 0, 0.5), 40px -20px rgba(200, 200, 200, 1); margin-top: 15px;">
+  <img align="right" src="/Untitled-1.png" alt="coding_desk" width="450px" style="border-radius: 30px 50px 40px 150px; box-shadow: 20px -10px rgba(0, 0, 0, 0.5), 40px -20px rgba(200, 200, 200, 1); margin-top: 15px;">
 </p>
   
 <ul>
