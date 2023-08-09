@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Lamba</h1>
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
 
-<div style="display: flex; 
-            justify-content: center; 
-            align-items: center;">
-    <img style="border-radius: 30px 50px 40px 150px;
-                box-shadow: 20px -10px rgba(0, 0, 0, 0.5),
-                            40px -20px rgba(200, 200, 200, 1);
-                margin-top: 15px;"
-    alt="coding_desk" width="450px" src="/coding.gif"/>
-</div>
+<p align="center">
+  <img src="/coding.gif" alt="coding_desk" width="450px" style="border-radius: 30px 50px 40px 150px; box-shadow: 20px -10px rgba(0, 0, 0, 0.5), 40px -20px rgba(200, 200, 200, 1); margin-top: 15px;">
+</p>
   
 <ul>
     <li>
