@@ -3,10 +3,10 @@
   
 <ul>
     <li>
-        - 🌱 Presently, I am delving into the realm of **Web Development**, nurturing my passion and curiosity for this field.
+        - 🌱 Presently, I am delving into the realm of <strong>Web Development</strong>, nurturing my passion and curiosity for this field.
     </li>
     <li>
-        - 📫 How to reach me **08sahillamba@gmail.com**
+        - 📫 How to reach me : [08sahillamba@gmail.com](mailto:08sahillamba@gmail.com)
     </li>
     <li>
         - 📫 Know about my experiences [here](https://drive.google.com/file/d/1DYLcFFWOzWSFAlOoVfvppzAkJayPRlST/view?usp=sharing)
