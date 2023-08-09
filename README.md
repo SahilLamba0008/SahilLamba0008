@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Lamba</h1>
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
-
-  <img align="right" src="/Untitled-1.png" alt="coding_desk" width="300px">
-
   
 <ul>
     <li>
