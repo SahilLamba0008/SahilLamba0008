@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Lamba</h1>
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
   
-<ul>
-    <li>
+
         - 🌱 Presently, I am delving into the realm of <strong>Web Development</strong>, nurturing my passion and curiosity for this field.
-    </li>
-    <li>
+
         - 📫 How to reach me : <a href="mailto:08sahillamba@gmail.com"><strong>08sahillamba@gmail.com</strong></a>
-    </li>
-    <li>
+        
         - 📫 Know about my experiences [here](https://drive.google.com/file/d/1DYLcFFWOzWSFAlOoVfvppzAkJayPRlST/view?usp=sharing)
-    </li>
-</ul>
 
 
 
