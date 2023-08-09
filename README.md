@@ -2,11 +2,11 @@
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
   
 
-  - 🌱 Presently, I am delving into the realm of <strong>Web Development</strong>, nurturing my passion and curiosity for this field.
+- 🌱 Presently, I am delving into the realm of <strong>Web Development</strong>, nurturing my passion and curiosity for this field.
 
-  - 📫 How to reach me : <a href="mailto:08sahillamba@gmail.com"><strong>08sahillamba@gmail.com</strong></a>
+- 📫 How to reach me : <a href="mailto:08sahillamba@gmail.com"><strong>08sahillamba@gmail.com</strong></a>
 
-  - 📫 Know about my experiences [here](https://drive.google.com/file/d/1DYLcFFWOzWSFAlOoVfvppzAkJayPRlST/view?usp=sharing)
+- 📫 Know about my experiences [here](https://drive.google.com/file/d/1DYLcFFWOzWSFAlOoVfvppzAkJayPRlST/view?usp=sharing)
 
 
 
