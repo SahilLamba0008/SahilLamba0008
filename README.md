@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Lamba</h1>
 <h3 align="center">A candidate passionate for software development graduated from Chandigarh University</h3>
 
-<img align="right" alt="coding_desk" width="400px" src="/coding.gif"/>
+<img align="right" alt="coding_desk" width="200px" src="/coding.gif"/>
 
 - 🌱 Presently, I am delving into the realm of **Web Development**, nurturing my passion and curiosity for this field.
 
