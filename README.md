@@ -3,7 +3,7 @@
 
 - 📫 Mail : **sahillamba003@gmail.com**
 
-- 😎 My Resume : [https://drive.google.com/file/d/16YVxV3XwS_Ec1dn1sExHr_xOS88xMFk8/view?usp=drive_link](https://drive.google.com/file/d/16YVxV3XwS_Ec1dn1sExHr_xOS88xMFk8/view?usp=drive_link)
+- 😎 My Resume : [Click Here](https://drive.google.com/file/d/16YVxV3XwS_Ec1dn1sExHr_xOS88xMFk8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
