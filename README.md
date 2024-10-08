@@ -2,13 +2,11 @@
 
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) to learn more about me.
+- Check out my [Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) | [New Protfolio] ( https://personal-portfolio-sahil.vercel.app/) ( still in process ... ) to learn more about me.
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js-14` `TypeScript` `JavaScript` `Tailwind`  `Bootstrap` `Framer-Motion`
- 
-**Version Control:** `Git` `GitLab`
+**Frontend Development:** `React` `Next.js 14` `TypeScript` `JavaScript` `Tailwind`  `Bootstrap` `Framer-Motion`
 
 **Backend Development:** `Node.js` `Express.js` `REST API` `Socket.io` 
 
@@ -26,5 +24,3 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## 🌱Mail :
 sahillamba003@gmail.com
 
-## ⚡Fun fact: 
-You can reach out to me! I promise I won't bite ❤️.
