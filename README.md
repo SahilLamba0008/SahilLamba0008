@@ -17,8 +17,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 **Others:** `C++` `DSA` `Blender 3D` `CMS-(Strapi)` `ORM-(Prisma)` `Adobe Premier Pro`
 
 ## 📫 Contact
-- [Mail](mailto:sahillamba003@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sahillamba0008/)
-<img src="https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&locale=en" alt="vamsi4845" height="165" />
+-> [Mail](mailto:sahillamba003@gmail.com)       -> [LinkedIn](https://www.linkedin.com/in/sahillamba0008/)
+<img src="https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&locale=en" alt="vamsi4845" width="100%" />
 
 
