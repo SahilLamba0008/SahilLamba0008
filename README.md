@@ -19,6 +19,8 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## 📫 Contact
 - [Mail](mailto:sahillamba003@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sahillamba0008/)
-<img src="https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&locale=en" alt="vamsi4845" height="150" />
+- 
+## 📈 GitHub Stats
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 
