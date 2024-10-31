@@ -2,7 +2,7 @@
 
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [Portfolio]( https://personal-portfolio-sahil.vercel.app/) - [Previous Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) |  to learn more about me.
+- Check out my [Portfolio]( https://personal-portfolio-sahil.vercel.app/) - [Previous Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) to learn more about me.
 
 ## 📦 Toolbox
 
@@ -19,7 +19,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## 📫 Contact
 - [Mail](mailto:sahillamba003@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sahillamba0008/)
-- 
+  
 ## 📈 GitHub Stats
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
