@@ -2,7 +2,7 @@
 
 I'm a 23-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) | [New Portfolio]( https://personal-portfolio-sahil.vercel.app/) ( still in process ... ) to learn more about me.
+- Check out my [Portfolio]( https://personal-portfolio-sahil.vercel.app/) - [Previous Portfolio]( https://master--sahil-lamba-portfolio.netlify.app/) |  to learn more about me.
 
 ## 📦 Toolbox
 
