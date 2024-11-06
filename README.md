@@ -22,5 +22,6 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
   
 ## 📈 GitHub Stats
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahillamba0008&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+[![](https://visitcount.itsvg.in/api?id=SahilLamba0008&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
