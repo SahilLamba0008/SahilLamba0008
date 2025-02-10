@@ -8,7 +8,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 
 **Frontend Development:** `React` `Next.js 14` `TypeScript` `JavaScript` `Tailwind`  `Bootstrap` `Framer-Motion`
 
-**Backend Development:** `Node.js` `Express.js` `REST API` `Socket.io` 
+**Backend Development:** `Node.js` `Express.js` `REST API` `GraphQL` `Socket.io` 
 
 **Database:** `MongoDB` `MySQL`
 
